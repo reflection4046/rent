@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RentFlow</string>
+    <string name="offline_title">You\'re offline</string>
+    <string name="offline_subtitle">Check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading RentFlow…</string>
+    <string name="downloading_file">Downloading file to Downloads folder…</string>
+    <string name="download_failed">Download failed: %1$s</string>
+</resources>
